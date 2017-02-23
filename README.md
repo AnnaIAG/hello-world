@@ -2,4 +2,6 @@
 learing the tool
 
 I am testing how the commit function works
-To do this I am chaning the READMe file
+To do this I am changing the READMe file
+Learning how the tool works now.
+Fixed the spelling of the word - changing
