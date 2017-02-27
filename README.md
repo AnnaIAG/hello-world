@@ -1,5 +1,5 @@
 # hello-world
-learing the tool Testing with Peter
+learing the tool Testing with Peter using his own Branch
 
 I am testing how the commit function works
 To do this I am changing the READMe file
